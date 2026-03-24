@@ -15,6 +15,7 @@ built with Arduino Nano for testing household water quality.
 - DS18B20 waterproof temperature sensor
 - SSD1306 0.96" OLED display
 - Total cost: ~290,000 VND (~$12 USD)
+- ![TDS Monitor Device](images/device.jpg)
 
 ## Results
 Tested 5 water sources in Ho Chi Minh City.
