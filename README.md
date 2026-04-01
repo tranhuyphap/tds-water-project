@@ -7,7 +7,7 @@ Built as a school science research project (NCKH) to investigate
 real water quality in Ho Chi Minh City households — specifically 
 whether home RO filters are actually working as expected.
 
-![TDS Monitor Device](images/device.jpg)
+![TDS Monitor Device](images/Finished Product.png)
 
 ---
 
